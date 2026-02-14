@@ -1,0 +1,37 @@
+{
+  "id": "nightshiftlobo",
+  "name": "NightShiftLobo",
+  "version": "1.1.0",
+  "author": "UdayangaAJ",
+  "description": "Ultra low eye-strain dark theme tuned for Niri + DankMaterialShell",
+
+  "dark": {
+    "primary": "#6C82D9",
+    "primaryText": "#1B1D23",
+    "primaryContainer": "#384268",
+
+    "secondary": "#7C93F2",
+
+    "surface": "#22252C",
+    "surfaceText": "#D7DAE3",
+
+    "surfaceVariant": "#2A2E37",
+    "surfaceVariantText": "#BFC3D0",
+
+    "surfaceTint": "#6C82D9",
+
+    "background": "#1B1D23",
+    "backgroundText": "#D7DAE3",
+
+    "outline": "#303540",
+
+    "surfaceContainer": "#252932",
+    "surfaceContainerHigh": "#2E333F",
+
+    "error": "#D67A7A",
+    "warning": "#CFAE6A",
+    "info": "#6CBF84"
+  },
+
+  "sourceDir": "nightshiftlobo"
+}
