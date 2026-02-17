@@ -1,7 +1,7 @@
 {
   "id": "nightshiftlobo",
   "name": "NightShiftLobo",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "UdayangaAJ",
   "description": "Low eye-strain dark/light theme tuned for Niri + DankMaterialShell",
   "dark": {
@@ -25,24 +25,24 @@
     "info": "#5FA877"
   },
   "light": {
-    "primary": "#566AB3",
-    "primaryText": "#1B1D23",
-    "primaryContainer": "#C9D0E1",
-    "secondary": "#6074BD",
-    "surface": "#E1E5EC",
-    "surfaceText": "#353B47",
-    "surfaceVariant": "#CDD3DE",
-    "surfaceVariantText": "#414857",
-    "surfaceTint": "#566AB3",
-    "background": "#D8DDE7",
-    "backgroundText": "#353B47",
-    "outline": "#9CA2B6",
-    "surfaceContainer": "#CBD2DE",
-    "surfaceContainerHigh": "#BAC3D2",
-    "surfaceContainerHighest": "#A8B2C3",
-    "error": "#B06A6A",
-    "warning": "#A88F58",
-    "info": "#588F69"
+    "primary": "#5C73D8",
+    "primaryText": "#2B2F3A",
+    "primaryContainer": "#D8DEEB",
+    "secondary": "#6D82E3",
+    "surface": "#ECEFF5",
+    "surfaceText": "#2B2F3A",
+    "surfaceVariant": "#E4E8F1",
+    "surfaceVariantText": "#4A5161",
+    "surfaceTint": "#5C73D8",
+    "background": "#F3F5F9",
+    "backgroundText": "#2B2F3A",
+    "outline": "#8A90A4",
+    "surfaceContainer": "#DCE1EC",
+    "surfaceContainerHigh": "#CED4E2",
+    "surfaceContainerHighest": "#BFC6D8",
+    "error": "#C16A6A",
+    "warning": "#B89A4F",
+    "info": "#5EA87C"
   },
   "variants": {
     "type": "multi",
@@ -122,19 +122,19 @@
         "name": "Dawn",
         "dark": {},
         "light": {
-          "surface": "#E1E5EC",
-          "surfaceText": "#353B47",
-          "surfaceVariant": "#CDD3DE",
-          "surfaceVariantText": "#414857",
-          "background": "#D8DDE7",
-          "backgroundText": "#353B47",
-          "outline": "#9CA2B6",
-          "surfaceContainer": "#CBD2DE",
-          "surfaceContainerHigh": "#BAC3D2",
-          "surfaceContainerHighest": "#A8B2C3",
-          "error": "#B06A6A",
-          "warning": "#A88F58",
-          "info": "#588F69"
+          "surface": "#ECEFF5",
+          "surfaceText": "#2B2F3A",
+          "surfaceVariant": "#E4E8F1",
+          "surfaceVariantText": "#4A5161",
+          "background": "#F3F5F9",
+          "backgroundText": "#2B2F3A",
+          "outline": "#8A90A4",
+          "surfaceContainer": "#DCE1EC",
+          "surfaceContainerHigh": "#CED4E2",
+          "surfaceContainerHighest": "#BFC6D8",
+          "error": "#C16A6A",
+          "warning": "#B89A4F",
+          "info": "#5EA87C"
         }
       }
     ],
@@ -164,11 +164,11 @@
           "surfaceTint": "#5569B2"
         },
         "dawn": {
-          "primary": "#5E73C4",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#D0D6E6",
-          "secondary": "#6D82D9",
-          "surfaceTint": "#5E73C4"
+          "primary": "#5C73D8",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#D8DEEB",
+          "secondary": "#6D82E3",
+          "surfaceTint": "#5C73D8"
         }
       },
       {
@@ -196,11 +196,11 @@
           "surfaceTint": "#6376C2"
         },
         "dawn": {
-          "primary": "#6D82D9",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#D4DAEC",
-          "secondary": "#5E73C4",
-          "surfaceTint": "#6D82D9"
+          "primary": "#6D82E3",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#D8DEEB",
+          "secondary": "#5C73D8",
+          "surfaceTint": "#6D82E3"
         }
       },
       {
@@ -228,11 +228,11 @@
           "surfaceTint": "#954665"
         },
         "dawn": {
-          "primary": "#A84C70",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#DCCDD5",
-          "secondary": "#B44E7A",
-          "surfaceTint": "#A84C70"
+          "primary": "#8C7CD6",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#E4E8F1",
+          "secondary": "#B86A8C",
+          "surfaceTint": "#8C7CD6"
         }
       },
       {
@@ -260,11 +260,11 @@
           "surfaceTint": "#9E496D"
         },
         "dawn": {
-          "primary": "#B44E7A",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#E1D0D8",
-          "secondary": "#A84C70",
-          "surfaceTint": "#B44E7A"
+          "primary": "#B86A8C",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#E4E8F1",
+          "secondary": "#8C7CD6",
+          "surfaceTint": "#B86A8C"
         }
       },
       {
@@ -292,11 +292,11 @@
           "surfaceTint": "#45929A"
         },
         "dawn": {
-          "primary": "#4BA1AC",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#D0DBDD",
-          "secondary": "#5DB6BC",
-          "surfaceTint": "#4BA1AC"
+          "primary": "#4F8FAF",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#DCE1EC",
+          "secondary": "#4C9AA5",
+          "surfaceTint": "#4F8FAF"
         }
       },
       {
@@ -324,11 +324,11 @@
           "surfaceTint": "#4F9EA4"
         },
         "dawn": {
-          "primary": "#5DB6BC",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#D4DFE1",
-          "secondary": "#4BA1AC",
-          "surfaceTint": "#5DB6BC"
+          "primary": "#4F8FB3",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#DCE1EC",
+          "secondary": "#4F8FAF",
+          "surfaceTint": "#4F8FB3"
         }
       },
       {
@@ -356,11 +356,11 @@
           "surfaceTint": "#56986A"
         },
         "dawn": {
-          "primary": "#5CA372",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#D2DDD5",
-          "secondary": "#6CBD84",
-          "surfaceTint": "#5CA372"
+          "primary": "#5EA87C",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#DCE1EC",
+          "secondary": "#5EA97C",
+          "surfaceTint": "#5EA87C"
         }
       },
       {
@@ -388,11 +388,11 @@
           "surfaceTint": "#61A474"
         },
         "dawn": {
-          "primary": "#6CBD84",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#D5E2D9",
-          "secondary": "#5CA372",
-          "surfaceTint": "#6CBD84"
+          "primary": "#5EA97C",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#E4E8F1",
+          "secondary": "#5EA87C",
+          "surfaceTint": "#5EA97C"
         }
       },
       {
@@ -420,11 +420,11 @@
           "surfaceTint": "#A38B56"
         },
         "dawn": {
-          "primary": "#B3975B",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#DDD6C8",
-          "secondary": "#C4AA6B",
-          "surfaceTint": "#B3975B"
+          "primary": "#B89A4F",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#E4E8F1",
+          "secondary": "#C2A15A",
+          "surfaceTint": "#B89A4F"
         }
       },
       {
@@ -452,11 +452,11 @@
           "surfaceTint": "#B19861"
         },
         "dawn": {
-          "primary": "#C4AA6B",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#E0DACD",
-          "secondary": "#B3975B",
-          "surfaceTint": "#C4AA6B"
+          "primary": "#C2A15A",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#ECEFF5",
+          "secondary": "#C88757",
+          "surfaceTint": "#C2A15A"
         }
       },
       {
@@ -484,11 +484,11 @@
           "surfaceTint": "#AB6767"
         },
         "dawn": {
-          "primary": "#BB6F6F",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#E0D3D3",
-          "secondary": "#C47A7A",
-          "surfaceTint": "#BB6F6F"
+          "primary": "#C16A6A",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#E4E8F1",
+          "secondary": "#B95C5C",
+          "surfaceTint": "#C16A6A"
         }
       },
       {
@@ -516,11 +516,11 @@
           "surfaceTint": "#B57272"
         },
         "dawn": {
-          "primary": "#C47A7A",
-          "primaryText": "#1B1D23",
-          "primaryContainer": "#E3D7D7",
-          "secondary": "#BB6F6F",
-          "surfaceTint": "#C47A7A"
+          "primary": "#B95C5C",
+          "primaryText": "#2B2F3A",
+          "primaryContainer": "#ECEFF5",
+          "secondary": "#C16A6A",
+          "surfaceTint": "#B95C5C"
         }
       }
     ]
